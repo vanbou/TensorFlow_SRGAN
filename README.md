@@ -4,13 +4,3 @@ For the reproduction of srgan, the paper Photo-Realistic Single Image Super-Reso
 环境：TensorFlow1版本即可
 
 具体见：[SRGAN实现超分辨率图像重建之模型复现_resumebb的博客-CSDN博客](https://blog.csdn.net/qq_41573860/article/details/109855299#comments_16297209)
-
-效果：
-
-LR:
-
-![](C:\Users\Resum\Desktop\20201202184048864.png)
-
-HR:
-
-![20201202184101953](C:\Users\Resum\Desktop\20201202184101953.png)
